@@ -1,0 +1,20 @@
+{
+  "name": "node-cli-calculator",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI calculator with basic arithmetic operations",
+  "main": "src/calculator.js",
+  "scripts": {
+    "start": "node src/calculator.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "calculator",
+    "cli",
+    "arithmetic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
